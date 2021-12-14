@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyLoadingTask", "LazyLoadingTask\LazyLoadingTask.csproj", "{9E2DBCCA-B6FA-40D4-A907-B8BEDDA1EFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2DBCCA-B6FA-40D4-A907-B8BEDDA1EFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2DBCCA-B6FA-40D4-A907-B8BEDDA1EFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2DBCCA-B6FA-40D4-A907-B8BEDDA1EFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2DBCCA-B6FA-40D4-A907-B8BEDDA1EFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
